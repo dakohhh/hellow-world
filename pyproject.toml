@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "hellow-world"
+name = "hellow_world"
 version = "0.1.0"
 description = ""
 license = "MIT"
@@ -43,3 +43,9 @@ skip-string-normalization = true
 skip-magic-trailing-comma = true
 verbose = true
 fast = true
+
+
+[tool.pytest]
+addopts = "-v"
+testpaths = ["tests"]
+python_files = ["test_*.py"]

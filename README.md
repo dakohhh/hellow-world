@@ -24,6 +24,13 @@ from hellow_world import greet
 print(greet())  # Outputs: "Hellow, world!"
 ```
 
+## Test
+
+```bash
+poetry run python -m pytest
+
+```
+
 ## Contributing
 
 If you have a silly idea for expanding this silly package, feel free to submit an issue or a pull request! All ideas (even the silly ones) are welcome.
