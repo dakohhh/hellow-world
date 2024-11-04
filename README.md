@@ -1,6 +1,6 @@
 # Hellow World 🌍
 
-`hellow-world` is the silliest Python package you'll ever need! It simply says "Hellow, world!" — because who needs proper spelling anyway?
+`hellow_world` is the silliest Python package you'll ever need! It simply says "Hellow, world!" — because who needs proper spelling anyway?
 
 ## Why Use Hellow World?
 
@@ -8,15 +8,15 @@ Because sometimes, you just need a little whimsy in your life. This package does
 
 ## Installation
 
-Install `hellow-world` via pip:
+Install `hellow_world` via pip:
 
 ```bash
-pip install hellow-world
+pip install hellow_world
 
 ```
 ## Usage
 
-Using `hellow-world` is as easy as saying… “Hellow!”
+Using `hellow_world` is as easy as saying… “Hellow!”
 
 ```python
 from hellow_world import greet
@@ -43,4 +43,4 @@ To contribute:
 4. Push to the branch (`git push origin feature/YourFeature`).
 5. Open a pull request.
 
-Let’s make `hellow-world` even sillier together!
+Let’s make `hellow_world` even sillier together!
